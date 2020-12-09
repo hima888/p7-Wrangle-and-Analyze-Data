@@ -1,7 +1,5 @@
 # p7-Wrangle-and-Analyze-Data
 
-In this project, you'll gather, assess, and clean data then act on it through analysis, visualization and/or modeling.
-## Poject Details
 --In this project are as follows:
 
 1-Data wrangling, which consists of:
